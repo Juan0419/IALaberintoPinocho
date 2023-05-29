@@ -1,0 +1,8 @@
+Definiremos cada agente, obstaculo y casilla con un numero:
+bloqueo -> 0, casilla -> 1, cigarrillos -> 2
+zorro -> 3,  Pinocchio -> 4, Gepetto -> 5
+2 1 1 1 1
+2 0 1 0 1
+4 3 3 3 5
+1 0 0 0 1
+1 1 1 1 1
